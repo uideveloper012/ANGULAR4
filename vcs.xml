@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/ajsnaresh/AJS_Classes.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/uideveloper012/ANGULAR4.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\user\WebstormProjects" />
+    <option name="cloneParentDir" value="E:\Typescript" />
   </component>
 </application>
