@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="css&quot;" type="CSS" />
+      <mapping ext="min" type="CSS" />
+      <mapping ext="min&quot;" type="CSS" />
+    </extensionMap>
+  </component>
+</application>
