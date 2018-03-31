@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/uideveloper012/ANGULAR4.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/yogeshpanchakshare/Manoj.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\Typescript" />
